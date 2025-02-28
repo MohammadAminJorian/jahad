@@ -1,7 +1,7 @@
 
-# System of buying and selling virtual courses
+# Jahadi group organization system
 
-It has a special purchase system for the virtual course
+Regulating jahadi groups and information on jahadi groups and camps
 
 ## How to run
 
@@ -26,9 +26,9 @@ and ...
 <br>
 <br>
 
-# سامانه 
+# سامانه نظم دهی گروه های جهادی
 
-دارای سیستم خرید ویژه دوره مجازی
+نظم دهی گروه های جهادی و اطلاعات گروه های جهادی و قرار گاه ها
 
 ## اجرای کد
 
@@ -46,8 +46,8 @@ python manager.py runserver<br><br>
 
 1 .ثبت و ویرایش گروه های جهادی<br>
 2 .ثبت و ویراش قرار گاه جهادی <br>
-3 .دارای تایید شماره<br>
-4 . دارای سیستم پست گذاری<br>
+3 .ثبت و ویراش ارکان گروه جهادی <br>
+4 . ارسال گذارش و فعالیت گروه های جهادی به مدیریت<br>
 و...
 
 <br>
